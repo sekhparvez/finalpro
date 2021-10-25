@@ -50,7 +50,7 @@ pageTitle: Games
                     <div class="mask">
                         <h2>Nothing but Game</h2>
                         <p>A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.</p>
-                        <a href="single.html" class="info">Play It</a>
+                        <a href="#" class="info">Play It</a>
                     </div>
                 </div>  
                 <div class="view view-first">
